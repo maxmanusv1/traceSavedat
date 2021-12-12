@@ -1,0 +1,7 @@
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\bin\Debug\traceSaveDat.exe.config
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\bin\Debug\traceSaveDat.exe
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\bin\Debug\traceSaveDat.pdb
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\obj\Debug\traceSaveDat.csproj.CoreCompileInputs.cache
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\obj\Debug\traceSaveDat.exe
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\obj\Debug\traceSaveDat.pdb
+C:\Users\KADIR\source\repos\traceSaveDat\traceSaveDat\obj\Debug\traceSaveDat.csproj.AssemblyReference.cache
